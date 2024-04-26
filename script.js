@@ -1,5 +1,5 @@
 
-const ApiKey = '1b006de33827f13d38f9419bc24ef83e';
+const ApiKey = 'YOUR-API-KEY';
 let city;
 
 function getWeather() {
